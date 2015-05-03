@@ -1,0 +1,11 @@
+{
+  "name": "metalsmith-ids",
+  "version": "0.1.0",
+  "description": "Metalsmith plugin to add incremental IDs based on date",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varagoras <varagoras@gmail.com>",
+  "license": "MIT"
+}
