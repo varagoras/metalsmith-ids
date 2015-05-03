@@ -1,11 +1,30 @@
 {
   "name": "metalsmith-ids",
-  "version": "0.1.0",
-  "description": "Metalsmith plugin to add incremental IDs based on date",
+  "description": "Metalsmith plugin to add incremental IDs based on a field",
+  "keywords": [
+    "metalsmith",
+    "metalsmith-plugin",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/varagoras/metalsmith-ids.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varagoras/metalsmith-ids/issues"
+  },
+  "homepage": "https://github.com/varagoras/metalsmith-ids",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Varagoras <varagoras@gmail.com>",
+  "maintainers": [
+    {
+      "name": "varagoras",
+      "email": "varagoras@gmail.com"
+    }
+  ],
   "license": "MIT"
 }
